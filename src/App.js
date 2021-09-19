@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import {
   Switch,
-  Redirect,
   Route,
   useLocation
 } from 'react-router-dom';
@@ -39,10 +38,9 @@ function App() {
   return (
     <>
       <Switch>
-        <Route exact path="/">
+        <Route path="/">
           <Home />
         </Route>
-        <Redirect to="/" />
       </Switch>
     </>
   );

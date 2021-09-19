@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nilaysondagar/csc375-analyst-website/static/css/main.75ffee28.chunk.css",
+    "main.js": "/nilaysondagar/csc375-analyst-website/static/js/main.dd9adb1c.chunk.js",
+    "main.js.map": "/nilaysondagar/csc375-analyst-website/static/js/main.dd9adb1c.chunk.js.map",
+    "runtime-main.js": "/nilaysondagar/csc375-analyst-website/static/js/runtime-main.3a012ddb.js",
+    "runtime-main.js.map": "/nilaysondagar/csc375-analyst-website/static/js/runtime-main.3a012ddb.js.map",
+    "static/js/2.febc0266.chunk.js": "/nilaysondagar/csc375-analyst-website/static/js/2.febc0266.chunk.js",
+    "static/js/2.febc0266.chunk.js.map": "/nilaysondagar/csc375-analyst-website/static/js/2.febc0266.chunk.js.map",
+    "index.html": "/nilaysondagar/csc375-analyst-website/index.html",
+    "static/css/main.75ffee28.chunk.css.map": "/nilaysondagar/csc375-analyst-website/static/css/main.75ffee28.chunk.css.map",
+    "static/js/2.febc0266.chunk.js.LICENSE.txt": "/nilaysondagar/csc375-analyst-website/static/js/2.febc0266.chunk.js.LICENSE.txt",
+    "static/media/favicon.png": "/nilaysondagar/csc375-analyst-website/static/media/favicon.b170189c.png",
+    "static/media/features-bg.png": "/nilaysondagar/csc375-analyst-website/static/media/features-bg.69c5091d.png",
+    "static/media/hero-image.png": "/nilaysondagar/csc375-analyst-website/static/media/hero-image.cf7f7105.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a012ddb.js",
+    "static/js/2.febc0266.chunk.js",
+    "static/css/main.75ffee28.chunk.css",
+    "static/js/main.dd9adb1c.chunk.js"
+  ]
+}

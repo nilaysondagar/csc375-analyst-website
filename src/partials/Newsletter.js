@@ -46,7 +46,7 @@ function Newsletter() {
                 <form className="w-full lg:w-auto">
                   <div className="flex flex-col sm:flex-row items-center max-w-xs mx-auto sm:max-w-md lg:mx-0 mb-4">
                   <h4 className="text-xl text-white font-bold leading-snug tracking-tight mr-4">Project Charter:</h4>
-                    <a className="btn text-white bg-blue-600 hover:bg-blue-700 shadow" download href={require("../images/favicon.png").default}>Download</a>
+                    <a className="btn text-white bg-blue-600 hover:bg-blue-700 shadow" download="CSC375_Project_Charter_Group_15.png" href={require("../images/favicon.png").default}>Download</a>
                   </div>
                 </form>
               </div>

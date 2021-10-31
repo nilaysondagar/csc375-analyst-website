@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/csc375-analyst-website/static/css/main.fe98e181.chunk.css",
-    "main.js": "/csc375-analyst-website/static/js/main.37760b95.chunk.js",
-    "main.js.map": "/csc375-analyst-website/static/js/main.37760b95.chunk.js.map",
+    "main.js": "/csc375-analyst-website/static/js/main.a5c34417.chunk.js",
+    "main.js.map": "/csc375-analyst-website/static/js/main.a5c34417.chunk.js.map",
     "runtime-main.js": "/csc375-analyst-website/static/js/runtime-main.b1da2a30.js",
     "runtime-main.js.map": "/csc375-analyst-website/static/js/runtime-main.b1da2a30.js.map",
-    "static/js/2.6dcdae72.chunk.js": "/csc375-analyst-website/static/js/2.6dcdae72.chunk.js",
-    "static/js/2.6dcdae72.chunk.js.map": "/csc375-analyst-website/static/js/2.6dcdae72.chunk.js.map",
+    "static/js/2.b2d7f8f2.chunk.js": "/csc375-analyst-website/static/js/2.b2d7f8f2.chunk.js",
+    "static/js/2.b2d7f8f2.chunk.js.map": "/csc375-analyst-website/static/js/2.b2d7f8f2.chunk.js.map",
     "index.html": "/csc375-analyst-website/index.html",
     "static/css/main.fe98e181.chunk.css.map": "/csc375-analyst-website/static/css/main.fe98e181.chunk.css.map",
-    "static/js/2.6dcdae72.chunk.js.LICENSE.txt": "/csc375-analyst-website/static/js/2.6dcdae72.chunk.js.LICENSE.txt",
+    "static/js/2.b2d7f8f2.chunk.js.LICENSE.txt": "/csc375-analyst-website/static/js/2.b2d7f8f2.chunk.js.LICENSE.txt",
     "static/media/AbdullahiBashir.jpeg": "/csc375-analyst-website/static/media/AbdullahiBashir.216ba404.jpeg",
     "static/media/DanMelamed.jpeg": "/csc375-analyst-website/static/media/DanMelamed.a8ff5e90.jpeg",
     "static/media/FranklinYang.jpeg": "/csc375-analyst-website/static/media/FranklinYang.1819057b.jpeg",
@@ -22,12 +22,13 @@
     "static/media/projectCharter.pdf": "/csc375-analyst-website/static/media/projectCharter.77ad00bd.pdf",
     "static/media/projectSchedule.png": "/csc375-analyst-website/static/media/projectSchedule.6cbc9ec5.png",
     "static/media/requirementsDocument.pdf": "/csc375-analyst-website/static/media/requirementsDocument.8baa2740.pdf",
-    "static/media/rfp.pdf": "/csc375-analyst-website/static/media/rfp.8c0f3243.pdf"
+    "static/media/rfp.pdf": "/csc375-analyst-website/static/media/rfp.8c0f3243.pdf",
+    "static/media/useCasesDocument.pdf": "/csc375-analyst-website/static/media/useCasesDocument.da73d441.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.b1da2a30.js",
-    "static/js/2.6dcdae72.chunk.js",
+    "static/js/2.b2d7f8f2.chunk.js",
     "static/css/main.fe98e181.chunk.css",
-    "static/js/main.37760b95.chunk.js"
+    "static/js/main.a5c34417.chunk.js"
   ]
 }

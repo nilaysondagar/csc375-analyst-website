@@ -33,7 +33,7 @@ function Header() {
                 </defs>
                 <rect width="32" height="32" rx="16" fill="url(#header-logo)" fillRule="nonzero" />
               </svg>
-              <h1 className="h2 ml-4">Parking Lot++</h1>
+              <h1 className="h2 ml-4">Software++</h1>
             </Link>
           </div>
         </div>

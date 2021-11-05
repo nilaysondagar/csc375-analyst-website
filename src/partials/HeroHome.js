@@ -30,7 +30,15 @@ function HeroHome() {
           <div className="text-center pb-12 md:pb-16">
             <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">We create unique <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">experiences</span></h1>
             <div className="max-w-3xl mx-auto">
-              <p className="text-xl text-gray-200 mb-8" data-aos="zoom-y-out" data-aos-delay="150">We at Parking Lot++ strive to create experiences for your clients that are fast, fluid, and future-proof.</p>
+              <p className="text-xl text-gray-200 mb-8" data-aos="zoom-y-out" data-aos-delay="150">
+                We at Software++ strive to create experiences that are fast, fluid, and future-proof.
+                With a team of experienced analysts, developers, and unpaid interns, we guarantee a software solution
+                custom tailored to your every want and need.
+              </p>
+              <p className="text-xl text-gray-200 mb-8" data-aos="zoom-y-out" data-aos-delay="200">
+               We've built a multitude of solutions for almost every company you've heard of. Some notable solutions include
+               Elective++, SnowTracker++, and Werner++.
+              </p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
                   <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#about-us">Learn more</a>

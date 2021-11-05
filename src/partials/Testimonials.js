@@ -83,7 +83,7 @@ function Testimonials() {
                   <img className="relative rounded-full" src={require('../images/testimonial.jpg').default} width="96" height="96" alt="Testimonial 01" />
                 </div>
                 <blockquote className="text-xl text-black font-medium mb-4">
-                  “ I love this product and would recommend it to anyone. Could be not easier to use, and our multiple websites are wonderful. We get nice comments all the time. “
+                  “ I love this product and would recommend it to anyone. Could be not easier to use, and our multiple websites are wonderful. Software++ is literally the best!!! “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">
                   <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-500">

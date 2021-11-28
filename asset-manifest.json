@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/csc375-analyst-website/static/css/main.fe98e181.chunk.css",
-    "main.js": "/csc375-analyst-website/static/js/main.09450f05.chunk.js",
-    "main.js.map": "/csc375-analyst-website/static/js/main.09450f05.chunk.js.map",
+    "main.js": "/csc375-analyst-website/static/js/main.15fc0726.chunk.js",
+    "main.js.map": "/csc375-analyst-website/static/js/main.15fc0726.chunk.js.map",
     "runtime-main.js": "/csc375-analyst-website/static/js/runtime-main.b1da2a30.js",
     "runtime-main.js.map": "/csc375-analyst-website/static/js/runtime-main.b1da2a30.js.map",
-    "static/js/2.b2d7f8f2.chunk.js": "/csc375-analyst-website/static/js/2.b2d7f8f2.chunk.js",
-    "static/js/2.b2d7f8f2.chunk.js.map": "/csc375-analyst-website/static/js/2.b2d7f8f2.chunk.js.map",
+    "static/js/2.a7c9c06b.chunk.js": "/csc375-analyst-website/static/js/2.a7c9c06b.chunk.js",
+    "static/js/2.a7c9c06b.chunk.js.map": "/csc375-analyst-website/static/js/2.a7c9c06b.chunk.js.map",
     "index.html": "/csc375-analyst-website/index.html",
     "static/css/main.fe98e181.chunk.css.map": "/csc375-analyst-website/static/css/main.fe98e181.chunk.css.map",
-    "static/js/2.b2d7f8f2.chunk.js.LICENSE.txt": "/csc375-analyst-website/static/js/2.b2d7f8f2.chunk.js.LICENSE.txt",
+    "static/js/2.a7c9c06b.chunk.js.LICENSE.txt": "/csc375-analyst-website/static/js/2.a7c9c06b.chunk.js.LICENSE.txt",
     "static/media/AbdullahiBashir.jpeg": "/csc375-analyst-website/static/media/AbdullahiBashir.216ba404.jpeg",
     "static/media/DanMelamed.jpeg": "/csc375-analyst-website/static/media/DanMelamed.a8ff5e90.jpeg",
     "static/media/FranklinYang.jpeg": "/csc375-analyst-website/static/media/FranklinYang.1819057b.jpeg",
     "static/media/LoganRaffkind.jpeg": "/csc375-analyst-website/static/media/LoganRaffkind.3b02b201.jpeg",
     "static/media/NilaySondagar.jpeg": "/csc375-analyst-website/static/media/NilaySondagar.81e507da.jpeg",
     "static/media/VyomShah.jpeg": "/csc375-analyst-website/static/media/VyomShah.1436761c.jpeg",
+    "static/media/domainModelsDocument.pdf": "/csc375-analyst-website/static/media/domainModelsDocument.502c2c28.pdf",
     "static/media/features-bg.png": "/csc375-analyst-website/static/media/features-bg.69c5091d.png",
     "static/media/features-element.png": "/csc375-analyst-website/static/media/features-element.d2968fda.png",
+    "static/media/finalReport.pdf": "/csc375-analyst-website/static/media/finalReport.48e2dc1f.pdf",
     "static/media/hero-image.png": "/csc375-analyst-website/static/media/hero-image.cf7f7105.png",
     "static/media/projectCharter.pdf": "/csc375-analyst-website/static/media/projectCharter.77ad00bd.pdf",
     "static/media/projectSchedule.png": "/csc375-analyst-website/static/media/projectSchedule.6cbc9ec5.png",
@@ -27,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b1da2a30.js",
-    "static/js/2.b2d7f8f2.chunk.js",
+    "static/js/2.a7c9c06b.chunk.js",
     "static/css/main.fe98e181.chunk.css",
-    "static/js/main.09450f05.chunk.js"
+    "static/js/main.15fc0726.chunk.js"
   ]
 }
